@@ -1,0 +1,6 @@
+unique_name: m_orders_itemamount_sum (1)
+object_type: metric
+label: Total Discount
+calculation_method: sum
+column: itemamount
+dataset: orders
